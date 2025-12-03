@@ -1,7 +1,7 @@
 {
   "name": "@amit-playground-cy/my-app-lib",
-  "version": "1.0.0",
-  "description": "A project that depends only on my-lib1",
+  "version": "1.0.1",
+  "description": "A project that depends only on my-lib11",
   "repository": {
     "type": "git",
     "url": "https://github.com/amit-playground-cy/my-app-lib.git"
