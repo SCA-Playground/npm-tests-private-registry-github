@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "@amit-playground-cy/foo": "1.2.0",
-    "debug": "4.34"
+    "debug": "4.3.4"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
